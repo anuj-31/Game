@@ -1,0 +1,35 @@
+.heading{
+    color: blue;
+    /* text-decoration: line-through; */
+    background-color: yellow;
+}
+/* body{
+    background-color: pink;
+} */
+button{
+    background-color: cornsilk;
+    color: black;
+}
+#ak{
+    visibility: hidden;
+
+}
+#Box{
+    height: 150px;
+    width: 100px;
+    border: 1px solid black;
+    margin:5px ;
+    text-align: center;
+    color: brown;
+    background-color: aqua;
+}
+div{
+        height: 150px;
+    width: 100px;
+    border: 1px solid black;
+    margin:5px ;
+    text-align: center;
+    color: brown;
+    background-color: aqua;
+
+}
